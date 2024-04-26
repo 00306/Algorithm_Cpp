@@ -57,9 +57,33 @@
 		07C9F6AC2BDBF5E800B4A909 /* Algorithm */ = {
 			isa = PBXGroup;
 			children = (
-				07C9F6AD2BDBF5E800B4A909 /* main.cpp */,
+				07C9F6B52BDBF85700B4A909 /* BaekJoon */,
 			);
 			path = Algorithm;
+			sourceTree = "<group>";
+		};
+		07C9F6B42BDBF81600B4A909 /* Bronze */ = {
+			isa = PBXGroup;
+			children = (
+				07C9F6B62BDBF87600B4A909 /* [2557] */,
+			);
+			path = Bronze;
+			sourceTree = "<group>";
+		};
+		07C9F6B52BDBF85700B4A909 /* BaekJoon */ = {
+			isa = PBXGroup;
+			children = (
+				07C9F6B42BDBF81600B4A909 /* Bronze */,
+			);
+			path = BaekJoon;
+			sourceTree = "<group>";
+		};
+		07C9F6B62BDBF87600B4A909 /* [2557] */ = {
+			isa = PBXGroup;
+			children = (
+				07C9F6AD2BDBF5E800B4A909 /* main.cpp */,
+			);
+			path = "[2557]";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
