@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		07C0BFD02BE9F1EE00ECC72E /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 07C0BFCF2BE9F1EE00ECC72E /* main.cpp */; };
+		07B85B5E2BEB3A1A00F0A028 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 07B85B5D2BEB3A1A00F0A028 /* main.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -28,6 +28,7 @@
 		076ED89D2BE2020F0025369C /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		076ED8A62BE362FA0025369C /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		07760EE92BE77D8100BE524B /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		07B85B5D2BEB3A1A00F0A028 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		07C0BFCF2BE9F1EE00ECC72E /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		07C9F6AA2BDBF5E800B4A909 /* Algorithm */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Algorithm; sourceTree = BUILT_PRODUCTS_DIR; };
 		07C9F6AD2BDBF5E800B4A909 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
@@ -85,6 +86,14 @@
 			path = "[10926]";
 			sourceTree = "<group>";
 		};
+		07B85B5C2BEB3A0E00F0A028 /* [10430] */ = {
+			isa = PBXGroup;
+			children = (
+				07B85B5D2BEB3A1A00F0A028 /* main.cpp */,
+			);
+			path = "[10430]";
+			sourceTree = "<group>";
+		};
 		07C0BFCE2BE9F1E100ECC72E /* [18108] */ = {
 			isa = PBXGroup;
 			children = (
@@ -120,6 +129,7 @@
 		07C9F6B42BDBF81600B4A909 /* Bronze */ = {
 			isa = PBXGroup;
 			children = (
+				07B85B5C2BEB3A0E00F0A028 /* [10430] */,
 				07C0BFCE2BE9F1E100ECC72E /* [18108] */,
 				07760EE82BE77D7300BE524B /* [10926] */,
 				076ED8A52BE362E30025369C /* [10869] */,
@@ -213,7 +223,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				07C0BFD02BE9F1EE00ECC72E /* main.cpp in Sources */,
+				07B85B5E2BEB3A1A00F0A028 /* main.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
