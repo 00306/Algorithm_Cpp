@@ -9,23 +9,14 @@
 using namespace std;
 
 int main(int argc, char * argv[]) {
-    int n, f, count = 0;
+    int sequence[201] = {0}, n, x;
     cin >> n;
     
-    int sequence[n+1];
-    
-    for (int i = 0; i < n; i++) {
-        cin >> sequence[i];
+    while (n--) {
+        cin >> x;
+        sequence[x+100]++;
     }
-    
-    cin >> f;
-    
-    for (int i = 0; i < n; i++) {
-        if (sequence[i] == f) {
-            count += 1;
-        }
-    }
-    
-    cout << count << endl;
+    cin >> x;
+    cout << sequence[x+100] << endl;
     
 }
