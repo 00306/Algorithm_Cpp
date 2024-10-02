@@ -72,17 +72,17 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		07DC006B2CAD1479003E99FA /* PBXFileSystemSynchronizedBuildFileExceptionSet */ = {
+		07DC006F2CAD15E6003E99FA /* PBXFileSystemSynchronizedBuildFileExceptionSet */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
-				"Lv.1/나머지가 1이 되는 수 찾기/main.cpp",
+				"Lv.1/평균 구하기/main.cpp",
 			);
 			target = 07C9F6A92BDBF5E800B4A909 /* Algorithm */;
 		};
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		0713EF0D2CA330980044BB6B /* Programmers */ = {isa = PBXFileSystemSynchronizedRootGroup; exceptions = (07DC006B2CAD1479003E99FA /* PBXFileSystemSynchronizedBuildFileExceptionSet */, ); explicitFileTypes = {}; explicitFolders = (); path = Programmers; sourceTree = "<group>"; };
+		0713EF0D2CA330980044BB6B /* Programmers */ = {isa = PBXFileSystemSynchronizedRootGroup; exceptions = (07DC006F2CAD15E6003E99FA /* PBXFileSystemSynchronizedBuildFileExceptionSet */, ); explicitFileTypes = {}; explicitFolders = (); path = Programmers; sourceTree = "<group>"; };
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
