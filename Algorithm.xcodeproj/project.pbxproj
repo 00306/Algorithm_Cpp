@@ -71,18 +71,8 @@
 		07F6D6A72C2558D20036D2E1 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
-/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		077842872CCF82D600806905 /* PBXFileSystemSynchronizedBuildFileExceptionSet */ = {
-			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
-			membershipExceptions = (
-				"Lv.1/나누어 떨어지는 숫자 배열/main.cpp",
-			);
-			target = 07C9F6A92BDBF5E800B4A909 /* Algorithm */;
-		};
-/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
-
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		0713EF0D2CA330980044BB6B /* Programmers */ = {isa = PBXFileSystemSynchronizedRootGroup; exceptions = (077842872CCF82D600806905 /* PBXFileSystemSynchronizedBuildFileExceptionSet */, ); explicitFileTypes = {}; explicitFolders = (); path = Programmers; sourceTree = "<group>"; };
+		0713EF0D2CA330980044BB6B /* Programmers */ = {isa = PBXFileSystemSynchronizedRootGroup; explicitFileTypes = {}; explicitFolders = (); path = Programmers; sourceTree = "<group>"; };
 		07ED8B432CCA232B003DDB14 /* Gold */ = {isa = PBXFileSystemSynchronizedRootGroup; explicitFileTypes = {}; explicitFolders = (); path = Gold; sourceTree = "<group>"; };
 /* End PBXFileSystemSynchronizedRootGroup section */
 
