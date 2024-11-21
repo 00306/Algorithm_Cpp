@@ -72,21 +72,22 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		077B2EC02CE1DCD3001B9AE5 /* PBXFileSystemSynchronizedBuildFileExceptionSet */ = {
+		07A50E122CEECEF100DE94BD /* PBXFileSystemSynchronizedBuildFileExceptionSet */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
-				main.cpp,
+				Lv.1/main.cpp,
+				"Lv.2/퍼즐 게임 챌린지/main.cpp",
 			);
 			target = 07C9F6A92BDBF5E800B4A909 /* Algorithm */;
 		};
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		0713EF0D2CA330980044BB6B /* Programmers */ = {isa = PBXFileSystemSynchronizedRootGroup; explicitFileTypes = {}; explicitFolders = (); path = Programmers; sourceTree = "<group>"; };
+		0713EF0D2CA330980044BB6B /* Programmers */ = {isa = PBXFileSystemSynchronizedRootGroup; exceptions = (07A50E122CEECEF100DE94BD /* PBXFileSystemSynchronizedBuildFileExceptionSet */, ); explicitFileTypes = {}; explicitFolders = (); path = Programmers; sourceTree = "<group>"; };
 		077B2E862CE1D32F001B9AE5 /* [10988] */ = {isa = PBXFileSystemSynchronizedRootGroup; explicitFileTypes = {}; explicitFolders = (); path = "[10988]"; sourceTree = "<group>"; };
 		077B2E8A2CE1D601001B9AE5 /* [1157] */ = {isa = PBXFileSystemSynchronizedRootGroup; explicitFileTypes = {}; explicitFolders = (); path = "[1157]"; sourceTree = "<group>"; };
 		077B2EB92CE1DA6F001B9AE5 /* [2745] */ = {isa = PBXFileSystemSynchronizedRootGroup; explicitFileTypes = {}; explicitFolders = (); path = "[2745]"; sourceTree = "<group>"; };
-		077B2EBD2CE1DCCB001B9AE5 /* [2292] */ = {isa = PBXFileSystemSynchronizedRootGroup; exceptions = (077B2EC02CE1DCD3001B9AE5 /* PBXFileSystemSynchronizedBuildFileExceptionSet */, ); explicitFileTypes = {}; explicitFolders = (); path = "[2292]"; sourceTree = "<group>"; };
+		077B2EBD2CE1DCCB001B9AE5 /* [2292] */ = {isa = PBXFileSystemSynchronizedRootGroup; explicitFileTypes = {}; explicitFolders = (); path = "[2292]"; sourceTree = "<group>"; };
 		07ED8B432CCA232B003DDB14 /* Gold */ = {isa = PBXFileSystemSynchronizedRootGroup; explicitFileTypes = {}; explicitFolders = (); path = Gold; sourceTree = "<group>"; };
 /* End PBXFileSystemSynchronizedRootGroup section */
 
