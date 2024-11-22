@@ -75,7 +75,7 @@
 		07A50E122CEECEF100DE94BD /* PBXFileSystemSynchronizedBuildFileExceptionSet */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
-				Lv.1/main.cpp,
+				"Lv.1/동영상 재생기/main.cpp",
 				"Lv.2/퍼즐 게임 챌린지/main.cpp",
 			);
 			target = 07C9F6A92BDBF5E800B4A909 /* Algorithm */;
