@@ -72,10 +72,10 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		07094C572D87E853002D04AA /* PBXFileSystemSynchronizedBuildFileExceptionSet */ = {
+		07094C852D8963C7002D04AA /* PBXFileSystemSynchronizedBuildFileExceptionSet */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
-				main.cpp,
+				2566.cpp,
 			);
 			target = 07C9F6A92BDBF5E800B4A909 /* Algorithm */;
 		};
@@ -90,7 +90,8 @@
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		07094C542D87E848002D04AA /* [2738] */ = {isa = PBXFileSystemSynchronizedRootGroup; exceptions = (07094C572D87E853002D04AA /* PBXFileSystemSynchronizedBuildFileExceptionSet */, ); explicitFileTypes = {}; explicitFolders = (); path = "[2738]"; sourceTree = "<group>"; };
+		07094C542D87E848002D04AA /* [2738] */ = {isa = PBXFileSystemSynchronizedRootGroup; explicitFileTypes = {}; explicitFolders = (); path = "[2738]"; sourceTree = "<group>"; };
+		07094C812D8963B9002D04AA /* Tier 3 */ = {isa = PBXFileSystemSynchronizedRootGroup; exceptions = (07094C852D8963C7002D04AA /* PBXFileSystemSynchronizedBuildFileExceptionSet */, ); explicitFileTypes = {}; explicitFolders = (); path = "Tier 3"; sourceTree = "<group>"; };
 		0713EF0D2CA330980044BB6B /* Programmers */ = {isa = PBXFileSystemSynchronizedRootGroup; exceptions = (07A50E122CEECEF100DE94BD /* PBXFileSystemSynchronizedBuildFileExceptionSet */, ); explicitFileTypes = {}; explicitFolders = (); path = Programmers; sourceTree = "<group>"; };
 		077B2E862CE1D32F001B9AE5 /* [10988] */ = {isa = PBXFileSystemSynchronizedRootGroup; explicitFileTypes = {}; explicitFolders = (); path = "[10988]"; sourceTree = "<group>"; };
 		077B2E8A2CE1D601001B9AE5 /* [1157] */ = {isa = PBXFileSystemSynchronizedRootGroup; explicitFileTypes = {}; explicitFolders = (); path = "[1157]"; sourceTree = "<group>"; };
@@ -499,6 +500,7 @@
 		07C9F6B42BDBF81600B4A909 /* Bronze */ = {
 			isa = PBXGroup;
 			children = (
+				07094C812D8963B9002D04AA /* Tier 3 */,
 				07094C542D87E848002D04AA /* [2738] */,
 				077B2EBD2CE1DCCB001B9AE5 /* [2292] */,
 				077B2EB92CE1DA6F001B9AE5 /* [2745] */,
